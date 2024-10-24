@@ -1,0 +1,10 @@
+{
+    "name": "Bash Script Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
+    "features": {
+      "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+    },
+    "extensions": [
+      "ms-azuretools.vscode-docker"
+    ]
+  }
